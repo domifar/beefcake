@@ -1,3 +1,3 @@
 @echo off
-timeout /t 60 /nobreak
+timeout /t 3600 /nobreak
 shutdown /s
