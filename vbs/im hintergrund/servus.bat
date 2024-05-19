@@ -1,3 +1,0 @@
-do
-msgbox("Servus")
-loop
