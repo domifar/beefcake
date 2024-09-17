@@ -1,2 +1,2 @@
 @echo off
-start /min wmplayer.exe /play /close ".\niggadrift.mp3"
+powershell -WindowStyle Hidden -c (New-Object Media.SoundPlayer ".\niggadrift.wav").PlaySync();
