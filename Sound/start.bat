@@ -1,4 +1,4 @@
 @echo off
-timeout /t 3600 /nobreak
+timeout /t 10 /nobreak
 start max_sound.bat
-start sound.mp3
+start startsound.bat
